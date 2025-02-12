@@ -4,12 +4,14 @@ Este proyecto es una API construida con Flask que permite crear y buscar en base
 
 ## Requisitos
 
-- Python 3.7 o superior
-- Flask
-- Flask-CORS
-- OpenAI
+- Python 3.10 o superior
+- flask
+- pydantic
+- openai
+- numpy
+- uvicorn
+- gunicorn
 - PyPDF2
-- python-dotenv
 
 ## Instalación
 
