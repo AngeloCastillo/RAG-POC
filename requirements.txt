@@ -1,0 +1,7 @@
+flask
+pydantic
+openai
+numpy
+uvicorn
+gunicorn
+PyPDF2
